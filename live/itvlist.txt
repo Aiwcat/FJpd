@@ -16,7 +16,8 @@ CCTV13,http://125.78.15.129:4022/rtp/239.61.2.23:8132
 CCTV14,http://125.78.15.129:4022/rtp/239.61.2.178:9056
 CCTV15,http://125.78.15.129:4022/rtp/239.61.2.25:8144
 CCTV17,http://125.78.15.129:4022/rtp/239.61.3.9:9572
-CCTV少儿超,http://111.74.155.231:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CETV4,http://121.19.134.142:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV4,http://121.19.134.140:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 福建频道,#genre#
 福建综合,http://125.78.15.129:4022/rtp/239.61.2.1:8000
 福建综合,http://125.78.15.129:4022/rtp/239.61.3.4:9542
@@ -134,13 +135,6 @@ CCTV少儿超,http://111.74.155.231:9901/tsfile/live/0014_1.m3u8?key=txiptv&play
 深圳卫视,http://125.78.15.129:4022/rtp/239.61.3.46:9794
 湖北卫视,http://125.78.15.129:4022/rtp/239.61.2.120:8714
 重庆卫视,http://125.78.15.129:4022/rtp/239.61.2.250:9488
-CETV频道,#genre#
-CETV2,http://121.19.134.140:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV2,http://111.225.114.165:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV2,http://121.19.134.142:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV4,http://111.225.114.165:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV4,http://121.19.134.142:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV4,http://121.19.134.140:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 教育频道,#genre#
 福建教育高清,http://27.148.240.138/PLTV/88888888/224/3221226884/1.m3u8
 中国教育1,http://125.78.15.129:4022/rtp/239.61.2.167:8990
