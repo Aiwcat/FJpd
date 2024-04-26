@@ -74,6 +74,8 @@ CETV4,http://121.19.134.140:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&au
 港澳台频道,#genre#
 凤凰卫视中文台,http://125.78.15.129:4022/rtp/239.61.2.184:9092
 凤凰卫视资讯台,http://125.78.15.129:4022/rtp/239.61.2.183:9086
+TVB翡翠,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+TVB翡翠,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 明珠台,http://nz189l149.bb27109.ctm.net:8892/bysid/2
 明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
